@@ -15,5 +15,14 @@ A simple two-player **Tic-Tac-Toe game** implemented in Java. This console-based
 ## How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Tic-Tac-Toe-Game.git
+   git clone https://github.com/your-username/TicToe.git
+2. Navigate to the project directory and run the game:
+bash
+Copy code
+cd TicToe-Game
+javac TicToe.java
+java TicToe
+3. Players take turns to enter their moves by specifying the row and column numbers (0-2).
+4. The game declares the winner or draw at the end of each round.
+
 
